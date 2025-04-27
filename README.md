@@ -61,6 +61,3 @@ Step into my tech universe! In this section, I'm excited to introduce you to the
 
 > **Note**
 > The Proficiency Ratings are given by me, based on how well I can work with the given `Langauge` if given a task of any level.
-
-
-<h1 align="center" style="font-family: cursive;">CoLLAB wiTH ME</h1>
