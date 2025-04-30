@@ -1,24 +1,17 @@
+<h1 align="center">Turning Ideas Into Apps 🌍</h1>
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bda81ac2-3899-48de-ba28-91c566c2d885" alt="Hello-img">
+  <b>Hi 👋 I'm Arsh</b>  
 </p>
 
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/software%20-developer-blue?style=for-the-badge" alt="Software Developer"></a>
+</p>
 
-<h1 align="center" style="font-family: cursive;">About ME</h1>
-
-<br>
-
-> Hi This is **Arsh Baktoo**, Thanks for Visiting my Profile
-
-
-I'm a `Full-Stack Web Developer😸` with a passion for both technology and design. I bring not only technical expertise but also a keen eye for `Design✨` to every project I work on. My experience includes numerous projects in `Software Development😾` and `Automation😻`.
-
-![design](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-> **Warning**
-> You Forgot to give me a Follow 
-
-
-
+<p align="center">
+  <!-- Working .gif version of your video -->
+  <img src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif" alt="Developer at work" />
+</p>
 
 <h1 align="center" style="font-family: cursive;">Technology Stacks</h1>
 
@@ -61,3 +54,5 @@ Step into my tech universe! In this section, I'm excited to introduce you to the
 
 > **Note**
 > The Proficiency Ratings are given by me, based on how well I can work with the given `Langauge` if given a task of any level.
+
+![design](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
